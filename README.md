@@ -41,7 +41,7 @@
 
 # Step by step
    - Create a folder to download the Terraform files.
-   - Download the Terraform files inside the previously created folder. ```git clone https://github.com/andersonvilanova/appstream_terraform.git```.
+   - Download the Terraform files inside the previously created folder. ```git clone https://github.com/andersonvilanova/appstream-terraform.git```.
    - In your shell, inside the project folder, you need to initialize the Terraform dependency (this command is executed in the first time, or you can to need it, if you to change the AWS provider version).  
      - ```$ terraform init```  
         ![image](https://github.com/user-attachments/assets/711f699a-1d36-4097-8bec-91df3d81ebc0)  
